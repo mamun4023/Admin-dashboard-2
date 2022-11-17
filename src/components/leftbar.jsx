@@ -44,7 +44,6 @@ function LeftBar(){
                 <Home  className = {classes.item }/>
                 <Typography className= {classes.text}> Home page </Typography>
             </div> 
-    
         
         </Container>
     )
